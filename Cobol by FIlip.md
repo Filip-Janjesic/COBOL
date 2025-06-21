@@ -1,13 +1,13 @@
 # COBOL by Filip
 
 - [x] Hello World
-- [ ] Zbrajanje 2 broja
-- [ ] Kalkulator
-- [ ] Parni dan
-- [ ] Kg → funte
-- [ ] Upis korisnika u fajl
-- [ ] Čitanje iz fajla
-- [ ] Ocjene studenata
-- [ ] Obračun plaće
-- [ ] Faktura
-- [ ] Bankomat
+- [ ] Addition of 2 numbers
+- [ ] Calculator
+- [ ] Even day
+- [ ] Kg → pounds
+- [ ] User entry in the file
+- [ ] Reading from file
+- [ ] Student ratings
+- [ ] Salary calculation
+- [ ] Invoice
+- [ ] ATM
