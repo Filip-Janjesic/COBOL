@@ -1,7 +1,7 @@
 # COBOL by Filip
 
 - [x] Hello World
-- [ ] Addition of 2 numbers
+- [x] Addition of 2 numbers
 - [ ] Calculator
 - [ ] Even day
 - [ ] Kg → pounds
