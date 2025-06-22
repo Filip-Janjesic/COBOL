@@ -1,8 +1,8 @@
 # COBOL by Filip
 
-- [x] Hello World
-- [x] Addition of 2 numbers
-- [ ] Calculator
+- [X] Hello World
+- [X] Addition of 2 numbers
+- [X] Calculator
 - [ ] Even day
 - [ ] Kg → pounds
 - [ ] User entry in the file
