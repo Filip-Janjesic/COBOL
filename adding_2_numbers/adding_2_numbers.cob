@@ -15,3 +15,4 @@
            ADD NUM1 TO NUM2 GIVING TOTAL.
            DISPLAY "The sum is: " TOTAL.
            STOP RUN.
+         END PROGRAM ADDING_2_NUMBERS.
