@@ -3,7 +3,7 @@
 - [X] Hello World
 - [X] Addition of 2 numbers
 - [X] Calculator
-- [ ] Even day
+- [X] Even day
 - [ ] Kg → pounds
 - [ ] User entry in the file
 - [ ] Reading from file
