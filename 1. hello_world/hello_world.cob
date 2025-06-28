@@ -1,7 +1,8 @@
        IDENTIFICATION DIVISION.
-              PROGRAM-ID. HELLO_WORLD.
-              PROCEDURE DIVISION.
-                  DISPLAY "Hello, World!".
-                  STOP RUN.
-                END PROGRAM HELLO_WORLD.
-       
+       PROGRAM-ID. HELLO-WORLD.
+       AUTHOR. FILIP JANJESIC.
+
+       PROCEDURE DIVISION.
+           DISPLAY "Hello, World!".
+           ACCEPT OMITTED.
+           STOP RUN.
