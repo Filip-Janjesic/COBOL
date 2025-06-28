@@ -1,0 +1,3 @@
+cobc -x name.cob -o name.exe
+
+./name.exe
