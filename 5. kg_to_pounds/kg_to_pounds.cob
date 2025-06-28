@@ -1,6 +1,6 @@
            IDENTIFICATION DIVISION.
            PROGRAM-ID. KG_TO_POUNDS.
-           
+           AUTHOR. FILIP JANJESIC.
            DATA DIVISION.
            WORKING-STORAGE SECTION.
                 01 WS-KG PIC 9(5)V99.
