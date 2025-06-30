@@ -1,13 +1,13 @@
 # COBOL by Filip
 
-- [X] Hello World
-- [X] Addition of 2 numbers
-- [X] Calculator
-- [X] Even day
-- [X] Kg → pounds
-- [X] User entry in the file
-- [ ] Reading from file
-- [ ] Student ratings
-- [ ] Salary calculation
-- [ ] Invoice
-- [ ] ATM
+- [X] 1. Hello World
+- [X] 2. Addition of 2 numbers
+- [X] 3. Calculator
+- [X] 4. Even day
+- [X] 5. Kg → pounds
+- [X] 6. User entry in the file
+- [X] 7. Reading from file
+- [ ] 8. Student ratings
+- [ ] 9. Salary calculation
+- [ ] 10. Invoice
+- [ ] 11. ATM
