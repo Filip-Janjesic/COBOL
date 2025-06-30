@@ -5,7 +5,7 @@
            ENVIRONMENT DIVISION.
            INPUT-OUTPUT SECTION.
            FILE-CONTROL.
-               SELECT testfile ASSIGN TO "C:\\Workspace\\COBOL\\7. reading_from_file\\test.dat"
+               SELECT testfile ASSIGN TO "test.dat" *> CHANGED TO RELATIVE PATH
                    ORGANIZATION IS LINE SEQUENTIAL
                    FILE STATUS IS file-status.
 
@@ -23,14 +23,14 @@
            PROCEDURE DIVISION.
                DISPLAY "Opening file..." UPON CONSOLE.
                OPEN INPUT testfile
-               DISPLAY "File status after OPEN: " file-status UPON CONSOLE
+               DISPLAY "File status after OPEN: " file-status UPON CONSOLE. *> Added a period for clarity, not strictly needed by COBOL but good practice
 
                IF file-status NOT = "00"
                    DISPLAY "File could not be opened. Status: " file-status UPON CONSOLE
                    STOP RUN
-               END-IF
+               END-IF.
 
-               DISPLAY "Trying to read file..." UPON CONSOLE
+               DISPLAY "Trying to read file..." UPON CONSOLE.
                PERFORM UNTIL end-of-file
                    READ testfile
                        AT END
@@ -42,8 +42,6 @@
                END-PERFORM.
 
                CLOSE testfile.
-               DISPLAY "File closed." UPON CONSOLE
+               DISPLAY "File closed." UPON CONSOLE.
                STOP RUN.
            END PROGRAM READING_FROM_FILE.
-
-
