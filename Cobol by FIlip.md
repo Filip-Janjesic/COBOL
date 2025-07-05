@@ -7,7 +7,7 @@
 - [X] 5. Kg → pounds
 - [X] 6. User entry in the file
 - [X] 7. Reading from file
-- [ ] 8. Student ratings
+- [X] 8. Student ratings
 - [ ] 9. Salary calculation
 - [ ] 10. Invoice
 - [ ] 11. ATM
