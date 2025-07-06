@@ -1,5 +1,20 @@
-Books/
+# Ignoriraj VSCode postavke
+.vscode/
+
+# Ignoriraj izvršne datoteke (Windows)
 *.exe
-6. user_entry/user_data.txt
-7. reading_from_file/test.dat
-COBOL-terminal.txt
+
+# Ignoriraj privremene i pomoćne tekstualne datoteke
+*.txt
+*.dat
+*.log
+*.lst
+
+# Ignoriraj eventualne kompajlerske outpute
+*.o
+*.obj
+*.out
+*.bin
+
+# Ignoriraj direktorije sa knjigama ili većim vanjskim materijalima
+Books/
