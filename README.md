@@ -1,6 +1,6 @@
 # COBOL
 
-This repository is my personal journey towards mastering the COBOL programming language. Each exercise is a separate step in learning the syntax, structure, and practical use of COBOL for file handling, arithmetic operations, and basic business logic. Every folder contains a `.cob` source file, a compiled `.exe`, and a corresponding `.md` file with notes and explanations.
+This repository is my personal journey towards mastering the COBOL programming language. Each exercise is a separate step in learning the syntax, structure, and practical use of COBOL for file handling, arithmetic operations, and basic business logic.
 
 ## Completed Progress
 
@@ -15,5 +15,3 @@ This repository is my personal journey towards mastering the COBOL programming l
 - [ ] 9. Salary calculation
 - [ ] 10. Invoice
 - [ ] 11. ATM
-
- *Compiled with GnuCOBOL on Windows 11 using MinGW64.*
